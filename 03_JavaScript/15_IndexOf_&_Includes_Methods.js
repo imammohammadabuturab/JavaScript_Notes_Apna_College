@@ -1,3 +1,5 @@
+// Array Methods
+
 // found -> 1 , not found -> -1
 
 let primary = ["red", "yellow", "blue"];
