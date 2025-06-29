@@ -2,6 +2,7 @@
 // slice: copies a portion of an array  
 // same as slice in string
 // slice(strting index, ending index);
+// ending index is exclusive(not included)
 
 let colors = ["red", "yellow", "blue", "orange", "pink", "white"];
 
