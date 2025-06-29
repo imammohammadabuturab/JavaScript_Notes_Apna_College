@@ -1,5 +1,6 @@
 // slice
 // Returns the part of original string as a new string
+// slice(strting index, ending index);
 
 let str = "IloveCoding";
 
