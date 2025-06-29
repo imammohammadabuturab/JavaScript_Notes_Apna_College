@@ -12,5 +12,5 @@ primary.indexOf("Yellow"); // -1
 
 // includes: search for a value
 
-primary.includes ("red");  // true
-primary.includes ("green"); // false
+primary.includes("red");  // true
+primary.includes("green"); // false
