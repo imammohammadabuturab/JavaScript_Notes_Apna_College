@@ -21,3 +21,14 @@ function sam(a, b) {
     console.log("hello2");
 }
 console.log(sam(1, 2));
+
+function isAdult (age) {
+    if (age >= 18) {
+        return "Adult";
+    } else {
+        return "Not Adult";
+    }
+    console.log("bye bye");
+}
+
+console.log(isAdult(18));
