@@ -8,7 +8,8 @@ function changeGreet() {
     console.log(greet); 
 
     function innerGreet() {
-        console.log(greet); // lexical scope
+        console.log(greet); // lexical scope 
+        // lexical scope means that innerGreet will look for greet in its own scope first, then in the outer function's scope, and finally in the global scope.
     }
 }
 
